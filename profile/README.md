@@ -4,7 +4,7 @@
 
 ## Hakkımızda
 
-Çalışmalarını Doç. Dr. Derya Ahmet Kocabaş danışmanlığında, İTU ELMAKLAB ve İTÜ Gölet kıyısındaki konteynerında çalışmalarını sürdüren İTÜ AS (İTÜ Otonom Tekne Takımı) farklı disiplinlerden bir araya gelen öğrencilerin oluşturduğu insansız su üstü deniz aracı takımıdır. Yeni gelişen insansız deniz araçları alanında çalışan, Ar-Ge odaklı yapısıyla ulusal ve uluslararası alanda yarışma ve fuarlara katılım sağlayan takım; hem su üstü hem de su altı aracı bulunan tek İTÜ takımıdır.
+Çalışmalarını Doç. Dr. Derya Ahmet Kocabaş danışmanlığında, İTÜ ELMAKLAB ve İTÜ Gölet kıyısındaki konteynerinde sürdüren İTÜ AS (İTÜ Otonom Tekne Takımı) farklı disiplinlerden bir araya gelen öğrencilerin oluşturduğu insansız su üstü deniz aracı takımıdır. Yeni gelişen insansız deniz araçları alanında çalışan, Ar-Ge odaklı yapısıyla ulusal ve uluslararası alanda yarışma ve fuarlara katılım sağlayan takım; hem su üstü hem de su altı aracı bulunan tek İTÜ takımıdır.
 
 ## Misyonumuz
 
